@@ -1,0 +1,20 @@
+.nav-top{
+    background-color: rgb(47, 47, 114) !important;
+}
+
+.nav-menu{
+    color: white !important;
+    background-color: #37cfcf !important;
+    margin: 0.3em !important;
+    border-radius: 0.3em !important;
+    font-weight: bold !important;
+}
+
+.btn-pesquisa{
+    color: white !important;
+    background-color: #37cfcf !important;
+    border-radius: 0.3em !important;
+    border-color: rgb(47, 47, 114) !important;
+    font-weight: bold !important;
+}
+
