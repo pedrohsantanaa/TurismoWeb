@@ -10,6 +10,11 @@
     font-weight: bold !important;
 }
 
+.nav-menu:hover{
+    background-color: blueviolet !important;
+}
+
+
 .btn-pesquisa{
     color: white !important;
     background-color: #37cfcf !important;
@@ -18,3 +23,32 @@
     font-weight: bold !important;
 }
 
+.img-car{
+    max-height: 30em !important;
+}
+
+.carousel-caption{
+    background-color: #37cfcf94 !important;
+    width: auto !important;
+    color: black !important;
+    
+}
+
+.divisao{
+    background-color: rgb(47, 47, 114) !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 5% !important;
+}
+
+.sec-pacotes{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin: 0.5% !important;
+}
+
+.card{
+    margin-left: 1em !important;
+    padding: 1em !important;
+}
