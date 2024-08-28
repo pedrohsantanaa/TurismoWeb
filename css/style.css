@@ -52,3 +52,45 @@
     margin-left: 1em !important;
     padding: 1em !important;
 }
+
+footer{
+    background-color: rgb(47, 47, 114) !important;
+    padding: 1em !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.sec-contatos{
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+    
+}
+
+.formulario{
+    background-color: blue !important;
+    margin-left: 1% !important;
+    
+}
+
+.redes{
+    background-color: red !important;
+    margin-left: 1% !important;
+    flex: 1 !important;
+}
+
+/*
+
+.redes{
+    background-color: red !important;
+    padding: 0 !important;
+    margin: 2% 0.1% !important;
+    flex: 1 !important;
+    text-align: center !important;
+}
+
+.sec-contatos{
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+    
+}
+*/
